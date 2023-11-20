@@ -1,0 +1,21 @@
+
+					JAWABAN UTS PEMOGRAMAN WEB
+1.Apa yang dimaksud framework pada pengembangan aplikasi?
+Jawaban:
+Framework pada pengembangan aplikasi bisa diibaratkan sebagai pondasi atau kerangka yang disiapkan untuk mempermudahkan proses pembuatan aplikasi.framework juga dapat menyertakan fungsi-fungsi umum yang sering digunakan dalam pengembangan aplikasi, seperti manajemen basis data,antarmuka pengguna dan keamanan, sehingga tidak perlu melakukan dari awal.
+
+2.	
+•Sebutkan tema proyek yang sedang digarap?
+Jawaban:Sistem Koprasi
+
+•Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk masing-masing anggota!
+Jawaban: Fajar Rahmat Nugraha Suherman	: Dokumentasi ( Angket, Laporan, UML )
+	 Muhammad Adrian Eka Wahyu 	: Programmer ( Ngoding, Website, UI/UX Design )
+	 Muhammad Faiz Maulana Wijaya	: Database ( Basis Data, Query )
+
+•Jelaskan Permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung!
+Jawaban:  
+	a)permasalahan
+	•koperasi at-taubah belum memiliki website untuk simpan pinjam sehingga semua pendataan yang dilakukan 	masih secara manual. Karena itu,
+	b)solusi 
+	•membuatkan sebuah website untuk koperasi tersebut, yang dimana semua informasi, persyaratan, pendaftaran, 	dll akan tertuang dalam website tersebut. Sistem yang kami rancang semaksimal mungkin akan memudahkan 	pihak peminjam dalam penggunaan website nya
